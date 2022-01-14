@@ -22,7 +22,7 @@
 
     <router-view/>
 
-    <div id="footer" class="text-center mt-5">Ovo je footer. (c) 2022 svi skupa.</div>
+    <div id="footer" class="text-center mt-5">Ovo je footer. (c) Pula d.o.o.</div>
   </div>
 </template>
 
